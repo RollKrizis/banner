@@ -1,0 +1,12 @@
+{
+ "7731188956": {
+  "freeze_below": 20.0,
+  "cut_frames": 20,
+  "scale": 0.7,
+  "banner": "banners\\7731188956.mp4",
+  "mode": "freeze",
+  "key_color": "0x00FF00",
+  "similarity": 1e-05,
+  "blend": 1e-05
+ }
+}
